@@ -2,6 +2,7 @@ main {
     margin: 0 auto;
     height: 100vh;
     width: 50%;
+    text-align: center;
     background-color: purple;
 }
 
@@ -18,4 +19,5 @@ header {
     width: 50%;
     background: cornflowerblue;
     margin: 0 auto;
+    text-align: center;
 }
