@@ -1,6 +1,24 @@
+<<<<<<< HEAD
 .main{
     margin: 0 auto;
     height: 100vh;
     width:50%;
     background-color: purple;
+=======
+
+footer {
+    margin: 0 auto;
+    height: 100vh;
+    width: 50%;
+    text-align: center;
+    background: green;
+}
+
+header {
+    height: 100vh;
+    width: 50%;
+    background: cornflowerblue;
+    margin: 0 auto;
+
+>>>>>>> 74a4243b34a2f9be9ab5712e6ce5eb1b3f268203
 }
