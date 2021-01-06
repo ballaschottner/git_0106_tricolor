@@ -1,16 +1,16 @@
-<<<<<<< HEAD
-footer{
-    margin:0 auto;
+
+footer {
+    margin: 0 auto;
     height: 100vh;
-    width:50%;
+    width: 50%;
     text-align: center;
     background: green;
+}
 
-=======
 header {
     height: 100vh;
     width: 50%;
     background: cornflowerblue;
     margin: 0 auto;
->>>>>>> b06e7e516aa4087886584012f3137d2f26751c5d
+
 }
